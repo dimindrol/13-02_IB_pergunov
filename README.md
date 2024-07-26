@@ -35,17 +35,24 @@ Adding user `cryptouser' to group `users' ...
 Каталог после выполнения шифрования:  
 ![image](https://github.com/user-attachments/assets/dd0e375d-934d-4b18-af30-bea31dd1e9bb)  
 
-
-
-
-
-
-
-
-
 ### Задание 2
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. Luks изначально был установлен  
+2. Создали пустой раздел  
+![image](https://github.com/user-attachments/assets/00f43f99-0bc8-418b-9358-d048c3b5fc67)  
+3. Инициализировали LUKS  
+![image](https://github.com/user-attachments/assets/d4001e46-709c-4eae-8fd4-93ca92f8dbec)  
+4. Открыли зашифрованный раздел  
+![image](https://github.com/user-attachments/assets/0ce6791c-9b02-4650-8c07-a1ff19d62d5a)  
+5. Создали файловую систему  
+![image](https://github.com/user-attachments/assets/ab32e914-dc0c-480a-b4a4-44c97961d1d0)  
+![image](https://github.com/user-attachments/assets/60aa850f-2f47-4ae6-949d-6525c64c1ac3)  
+6. Смонтировали зашированный раздел  
+![image](https://github.com/user-attachments/assets/75d1f61b-2304-4a06-94e8-d3d957554691)  
 
-```
-```
+
+
+
+
+
+
