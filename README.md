@@ -38,7 +38,7 @@ Adding user `cryptouser' to group `users' ...
 ### Задание 2
 
 1. Luks изначально был установлен  
-2. Создали пустой раздел  
+2. Создали пустой раздел sbd1  
 ![image](https://github.com/user-attachments/assets/00f43f99-0bc8-418b-9358-d048c3b5fc67)  
 3. Инициализировали LUKS  
 ![image](https://github.com/user-attachments/assets/d4001e46-709c-4eae-8fd4-93ca92f8dbec)  
